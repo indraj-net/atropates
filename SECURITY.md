@@ -1,10 +1,8 @@
-# Security policy
-
 ## Supported versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1       | :white_check_mark: |
+| Version | Supported |
+| ------- | --------- |
+| 1       | Yes       |
 
 ## Report a security bug
 
