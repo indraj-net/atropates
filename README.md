@@ -48,7 +48,12 @@ full, legal name and a non-temporary email address.
 
 ### Coding style
 
-Please adhere to the kernel coding standards, but use tabs instead of spaces.
+Please adhere to the kernel coding standards.
+In particular:
+
+- indent using tabs rather than spaces;
+- indent width should be set to 8 chars; and
+- line width should not exceed 80 chars unless this affects readability.
 
 ### Can I rewrite this in Rust?
 
